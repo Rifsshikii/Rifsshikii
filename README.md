@@ -1,26 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b0c4de,50:87cefa,100:e0ffff&height=220&section=header&text=୨୧%20Siesta%27s%20Detective%20Hub%20୨୧&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Halo,%20Saya%20Rifqi!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <br>
-
-  <img src="https://static.wikia.nocookie.net/tanmoshi/images/f/f6/Siesta_Anime_Visual_1.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #87cefa;" />
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6FB1FC&center=true&vCenter=true&width=500&lines=Software+%26+Game+Developer;Pixel+Art+%26+Digital+Creative;Exploring+New+Technologies" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=20&pause=1000&color=70A6FF&center=true&vCenter=true&width=500&lines=%E2%9C%A7%20Halo!%20Selamat%20datang%20di%20profilku%20~%20%E2%9C%A7;%EF%BD%A2%20A%20first-rate%20detective%20solves%20cases...%20%EF%BD%A3;%E2%8B%86%20Lover%20of%20Cute%20Things%20%26%20Coding%20%E2%8B%86" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <p align="center">
-    🎀 ────────── ୨୧ ────────── 🎀
-  </p>
-
-  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=for-the-badge&logo=javascript&logoColor=38BDF8)](https://developer.mozilla.org)
+  <!-- Badges Tech Stack -->
   [![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=6FB1FC)](https://python.org)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=for-the-badge&logo=javascript&logoColor=38BDF8)](https://developer.mozilla.org)
   [![Git](https://img.shields.io/badge/Git-0284C7?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 </div>
@@ -29,41 +22,36 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-1701a54018dd.gif" width="100%" />
 
-### ୨୧ ┈┈┈┈┈ ✦ Tentang Saya ✦ ┈┈┈┈┈ ୨୧
+### 🌌 Tentang Saya
 
-- 🤍 **Nama / Alias:** Rifqi (*Rifsshikii*)
-- 💍 **Waifu / Bini:** Siesta (*The Detective is Already Dead*) 💙
-- ☕ **Minuman Favorit:** Vanilla Latte
-- 🎵 **Suka:** Musik & lagu-lagu santai untuk nemenin koding
-- 🎨 **Minat:** Software development, web, *pixel art*, dan estetika kebiruan
-- ☁️ **Motto:** *"A first-rate detective solves a case before it even happens."*
+- 💙 Berminat pada pengembangan software, desain visual, dan proyek kreatif.
+- 🛠️ Sedang aktif mengeksplorasi berbagai teknologi baru dan logika pemrograman.
+- 🎨 Menyukai estetika *pixel art* dan antarmuka bertema gelap/kebiruan.
 
 <br>
 
 <div align="center">
 
-  ### ✧ ━━━━━━ 📊 GitHub Stats & Streak ━━━━━━ ✧
+  ### 📊 Statistik GitHub
 
-  <br>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rifsshikii&show_icons=true&theme=nord&bg_color=1e293b&title_color=7dd3fc&text_color=bae6fd&icon_color=38bdf8&border_color=7dd3fc" />
+  <!-- Github Stats Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a8a" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifsshikii&layout=compact&theme=nord&bg_color=1e293b&title_color=7dd3fc&text_color=bae6fd&border_color=7dd3fc" />
+  <!-- Top Languages Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&border_color=1e3a8a" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifsshikii&theme=nord&background=1E293B&border=7DD3FC&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC" width="85%" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&background=0F172A&border=1E3A8A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
 
 </div>
 
 <br>
 
-<p align="center">
-  ୨୧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ୨୧
-  <br>
-  🌸 <i>Terima kasih sudah mampir ke profilku! Have a nice day!</i> 🌸
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-1701a54018dd.gif" width="100%" />
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0ffff,50:87cefa,100:b0c4de&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:4364F7,100:0052D4&height=100&section=footer" width="100%" />
 </div>
