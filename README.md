@@ -24,10 +24,9 @@
 
 ### 🌌 Tentang Saya
 
-- 💙 Berminat pada pengembangan software, desain visual, dan proyek kreatif.
-- 🛠️ Sedang aktif mengeksplorasi berbagai teknologi baru dan logika pemrograman.
-- 🎨 Menyukai estetika *pixel art* dan antarmuka bertema gelap/kebiruan.
-
+- Siesta bini gweh
+- Musik
+- Vanilla Latte
 <br>
 
 <div align="center">
