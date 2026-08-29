@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Halo,%20Saya%20Rifqi!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Halo,%20Saya%20Ikhiezer!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
