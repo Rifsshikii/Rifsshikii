@@ -34,15 +34,15 @@
   ### 📊 Statistik GitHub
 
   <!-- Github Stats Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a8a" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rifsshikii&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a8a" />
   
   <!-- Top Languages Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&border_color=1e3a8a" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifsshikii&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&border_color=1e3a8a" />
 
   <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&background=0F172A&border=1E3A8A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifsshikii&theme=tokyonight&background=0F172A&border=1E3A8A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
 
 </div>
 
