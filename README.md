@@ -34,16 +34,16 @@
 
   ### 📊 Statistik GitHub
 
-  <!-- Github Stats Card (Stable) -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rifsshikii&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a8a" />
+  <!-- Github Stats Card (Ultra-Stable Mirror) -->
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Rifsshikii&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a8a" />
   
-  <!-- Top Languages Card (Stable) -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rifsshikii&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&border_color=1e3a8a" />
+  <!-- Top Languages Card (Ultra-Stable Mirror) -->
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Rifsshikii&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=93c5fd&border_color=1e3a8a" />
 
   <br><br>
 
-  <!-- GitHub Contribution Summary Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rifsshikii&theme=tokyonight&hide_border=true&area=true" width="90%" />
+  <!-- GitHub Streak Stats (Anti Rate-Limit) -->
+  <img src="https://streak-stats.demolab.com/?user=Rifsshikii&theme=tokyonight&background=0F172A&border=1E3A8A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
 
 </div>
 
