@@ -3,14 +3,16 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Halo,%20Saya%20Ikhiezer!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <!-- Typing Animation (Professional Industry Focused) -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6FB1FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast;Building+Scalable+%26+Clean+Code;Exploring+Modern+Web+Dev+%26+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6FB1FC&center=true&vCenter=true&width=600&lines=Backend+%26+Systems+Engineering+Enthusiast;Building+Scalable+Microservices+with+Go;Designing+Optimized+Databases+with+MySQL" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <!-- Badges Tech Stack -->
+  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
   [![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=6FB1FC)](https://python.org)
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
   [![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=for-the-badge&logo=javascript&logoColor=38BDF8)](https://developer.mozilla.org)
@@ -24,9 +26,9 @@
 
 ### 🚀 Tentang Saya
 
-- 💻 **Fokus:** Mengembangkan aplikasi web responsif dan penulisan kode berkinerja tinggi (*clean & scalable code*).
-- 🛠️ **Teknologi:** Aktif mendalami ekosistem JavaScript, Python, C++, dan kontrol versi dengan Git.
-- 🎯 **Tujuan:** Berkolaborasi dalam proyek perangkat lunak modern serta terus mengasah kemampuan *problem solving*.
+- 🐹 **Fokus:** Pengembangan layanan *Backend* performa tinggi menggunakan **Go (Golang)** dan perancangan basis data terstruktur **MySQL**.
+- 🛠️ **Teknologi:** Mendalami arsitektur RESTful API, manajemen database, *Clean Code*, serta kontrol versi dengan Git.
+- 🎯 **Tujuan:** Membangun sistem yang *scalable*, efisien, dan siap diproduksi di lingkungan industri.
 <br>
 
 <div align="center">
@@ -38,14 +40,10 @@
 
   <br><br>
 
-  ### 🎮 Commit Eater (Snake Game)
+  ### 📈 Grafik Kontribusi
 
-  <!-- Snake Contribution Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rifsshikii/Rifsshikii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rifsshikii/Rifsshikii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rifsshikii/Rifsshikii/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Standard Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rifsshikii&theme=tokyonight&hide_border=true&area=true" width="90%" />
 
   <br><br>
 
